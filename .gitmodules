@@ -1,0 +1,3 @@
+[submodule "book-code"]
+	path = book-code
+	url = https://github.com/ageron/handson-ml.git
